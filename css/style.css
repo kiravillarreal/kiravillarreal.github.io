@@ -309,7 +309,6 @@ picture{
 @media screen and (min-width: 1400px) {
    .page::before
   {
-    content: "1400px";
     color: black;
   }
 
