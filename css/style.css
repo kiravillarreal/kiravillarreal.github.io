@@ -152,7 +152,6 @@ picture{
 
 @media screen and (min-width: 320px) {
   .page::before {
-    content: "320px";
     color: green;
     position: absolute;
     top: 50px;
