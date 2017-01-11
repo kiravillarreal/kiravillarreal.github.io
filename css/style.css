@@ -167,7 +167,6 @@ picture{
 }
 @media screen and (min-width: 480px) {
   .page::before {
-    content: "480px";
     color: maroon;
   }
 
@@ -204,7 +203,6 @@ picture{
 
 @media screen and (min-width: 620px) {
   .page::before {
-    content: "620px";
     color: orange;
   }
 
@@ -258,7 +256,6 @@ picture{
 
 @media screen and (min-width: 810px) {
   .page::before {
-    content: "810px";
     color: black;
   }
 
